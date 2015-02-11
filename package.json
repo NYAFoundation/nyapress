@@ -1,0 +1,16 @@
+{
+  "name": "nypress",
+  "version": "0.0.1",
+  "description": "Static site generator based on NYA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rabbiabram",
+  "license": "MIT",
+  "dependencies": {
+    "markdown": "^0.5.0",
+    "node-getopt": "^0.2.3",
+    "nya": "0.0.3"
+  }
+}
